@@ -1,6 +1,6 @@
 ---
 title: About the GraphQL API
-intro: 'The {% data variables.product.prodname_dotcom %} GraphQL API offers flexibility and the ability to define precisely the data you want to fetch.'
+intro: 'Th.product.prodname_dotcom %} GraphQL API offers flexibility and the ability to define precisely the data you want to fetch.'
 versions:
   fpt: '*'
   ghec: '*'
@@ -8,7 +8,7 @@ versions:
   ghae: '*'
 topics:
   - API
----
+---ludoo
 
 ## Overview
 
